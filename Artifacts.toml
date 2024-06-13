@@ -1,0 +1,465 @@
+[[ADOLC]]
+arch = "aarch64"
+git-tree-sha1 = "5c181f28efcaf266f98b34a243006709739fca27"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "f323aaecb539f3d3c28276f1546d847747cfa2340de6b89a14ab48bb4b8988a4"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+git-tree-sha1 = "f78c3eeeff774373df6adb0803293e35c03f1187"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "d9f8992678e1cb9a191038824cf980b33e71a017818b18695dc948ae6ef40c9d"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+git-tree-sha1 = "022bb264ac17ec807819d2aa07b523c494dcd191"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "76fdc88279df4b642b649ccf99ad6c5c7fdea27fd0578a10b0cdb7fa539036b7"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6ff9b16b1ba99216594f0b5e515dd2fe7d0960f2"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "15a687f88ee567074fd764f4a9a05835afce95026e7353caad9e5f41332bd5e0"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "27492422cbf3714f529b41395ff9e4ce7de7f7e4"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "c6d05f6c91bca399dff6495d0ae0f0ac7a036f6c0ab14f56cc9de2c2f739d776"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2d39903133ce99533defb224dd75b366294599c7"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "5a635877a9a53d8896cf4a13a782f6a1e348487f129b73a9a2435ea23c4ee013"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6762ab5e657d15f3d060cdef1964c9d92139ef09"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "574226a8979f3a09c002ef4b23a2512e0013eb859c148563c22b166c2675ac35"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "685e1b6992e0a764b63e118fcd4918b95f547360"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "eccef9a3323ca20a306b30651c11a47e1e4bd689965ee5b37647280b4c38f1f1"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "610df5d5ec8595821d1ec569d2a3e28c204e237e"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "7a9935f20b7dfb9a3faa9ebeee84da8e68f8e5063291fed5526025fa5cf99d58"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a8077d2901cb0d40af93be7386fdca9bfe526994"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "f7aeec17a04438069f1d5ff1e986bb213c2f2cb932c8f95ffe15c7f233fac708"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "731fec3d49b72429b5128be363a37a612c2624eb"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "8cf4ffc511f8c7f4d783b49d014df59f1d3e4968c00b76fe42790fe011a020a8"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b14cac15ed3a79afbe39af1d1d859e2ca1697a41"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "a9e82c1bc70233e2760841a63ba100e6b77544c200d06a7f0cb608119043fad9"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a25f0992c90ffad2d8e70d2abfe074bc93422e8"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "523f68515410274a7eb421b8340973432939a679f34e20deaa096ace606bdad6"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ffa3baa9c6099e1610c0eb7f7783e4d3196df15"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "7257dae783fcae8251a59c8215651ffcf3649baad8c45ec60e396fc6466c3275"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d66a2edf99e16d0c0ea126c764aa0e47153ad4dd"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "2498e4f26a2bc727ff87a8c9835b12c3949c80e8f7f15357c91a55616850df0c"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a3c9a2d55bf28f50b66f26b5b7aa19a02f7c59c1"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "8040b46d9bee242d6753f491446721892092b45a970107d36fc8554d66b67183"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "959bbb9711fc118a6f7f3da42528759ccf819742"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "aebb89616b5fb26db37dadc9a974c6195e926f47bb82e97dd76b58be933f9888"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "837f3141c1a4562689e9efde7b2df7bdaafd5fb0"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "056dfc92f558966302604720a71fe3505c7e3d95d4dbe7a85caea133ef4498c5"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dfdb312fc520b6ea2440ef85a511d8930d12c94f"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "d09e10133c8e857ac421a132ca238670ee43264152a12cdde84224d8126ff273"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d5ce78f2b61874c3fd40aeb54267473b1922c92a"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "a368c6f2d5e013d0734e1ba63d0cab342d79d8d9fd0f758f48960ec847363782"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "03d42be4fe36cf6496e8e7e3099dd7dded4e504c"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "2a215c933ba093be4cd198b4c5c3a8d9ff862df025de232379ad96ba7ba32b5c"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.i686-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2810e9d3f7f63c1f5bfff2759a5809eaef197bcd"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "1357ab34864c8464dcd4aa04148d9c1ea298cccfff3071c30cc8c9a422ab0e64"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ff833f97c80244ffd12d444e3b34d5eddb678c2b"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "76a7fde56b3ae8dd15364249bd5a49b7699017148618205df1c0e0d9d2bf1b8d"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "46b2b6269b9c240f0d2f864a69296846a59a2e79"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "66ea27579f16979dac29c518a9620849dfe64326803d9caa1005df6a73cfac8e"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c9e43f1c3a87f651f62d9443ced186a138c396ce"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "0d7776b0a89d099f5325c323344089dcd594168920714e403c1bcd37e6875560"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f461e950fa3adc47742e723035ca9fe628fbe6fa"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "f3400ae2764669cedd3e93c08b9b32d3d17de94076e373cdfc5d5142b05385fb"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "607c36ef336656c3d8caa737d19a5ae407f19d2c"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "bb99f6cae1aff2b143cff8c6c7f0b71573592c97d55223b0191e59eb79018ad8"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "9582811cf534949dd64c13f29e3b40d0e30d0d03"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "c5c221a611c7ad7204d97d7faa3c11a031c2117eefe51794f4882c3c2d02deef"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "ead917d53db87b72098e1acdb54f02cd6806b929"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "157c47c6c2edfede29f759cb30f4c0585699a414d9b8fbf1ead5abeb9109f91e"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "8800fb2acdb9bd508cd8cbee40f778cfc63c3286"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "9737d2a42fc4c2fbf475ec319f772f1866f30aa3a79b1eb741fa96af1c818adc"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d9a735884564950362a84b69bee3a494a0844da1"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "7208249465588333f1d9123b07c4b9b1de3f7520f5fd12d9f9abe4cedf34d041"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "07046b985fbf5dfdedde1a7d550cb7b1ad13fcc6"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "0cf50dcc7eff570ecc8d14b2495e584aaebd7df5b5928a182660c4cb59a35cb8"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2eaa2350bc5fa0a5b8cb5f575f7206eba5c029d1"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "d8543d6bbe2b68e983a41021a2dc7fe6be8377876b2ba854ab49013a4457773f"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "62fd358a33aedd7977f258c3d4a0cea624e8fcbb"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "bf27de15e9258724e2020986da1adb6cfa7b98860059476359be8c3eb5eae016"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c653b0a4862a68c1fd250a1a7163ef9abff9c68"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "ee1423596f4871d332a31d263abcc09bf566b99ce66e5865e1741f08aca4f4b4"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "82c33ad2603c0ee817009a1ca84cd0f27ac2ee3c"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "5b77735e07472db82641c8727473230a55094915a3bca555121906b734db54ad"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "779b611150454b07e08ebb272933705ce2c09a8f"
+julia_version = "1.10.0"
+os = "freebsd"
+
+    [[ADOLC.download]]
+    sha256 = "8b5358663541b804f2eb60c09352dc455e7ae267106846bca84d37a5098918c4"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "5ef3089e75063f1024075030d030d607970c54ef"
+julia_version = "1.11.0"
+os = "freebsd"
+
+    [[ADOLC.download]]
+    sha256 = "4629a49b3331e3bf41bc9508816877bb947dedefd98112864f20991f0b3680dc"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "2fccae0d1ee8c6a4020ce7d8a39d237932357f28"
+julia_version = "1.9.0"
+os = "freebsd"
+
+    [[ADOLC.download]]
+    sha256 = "d22384591bf47b42b74fe7a54dbb5e26aae489cb7f9a0f8a6c5db5c9584ad4e5"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "213c271006c6e708518d9fb62f89cac0ec56b476"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "1fda77f2154d23b47a521c91b6af684acd467b9f734924a2fd4938288fcab18f"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3f922a24d8a3d7821398b2ac0b0746fb2ed6a9c7"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "07e752489e1eab0ffd73bc6e4583374e5cf22f37aa85e4d214599ee2c04e6863"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9e8f959751fb6d0c35c3fb4ad4870fa000810879"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "899d78b7f5cf0e00d779d8ef00f2491ce66ff8a1a6aa17396b8d2d7ee5506e96"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f5154e5c9267d6ca9f817acb051c8eda82d8a42e"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "ae0cf8d27d4c3ecbce218b509b023bafa90ef43d9118ffec7e1bde716c7bc40d"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aebba822a1e47956a8cda16db4a52575bcc3fbec"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "bfbb3c2ab2ea327638495ea94aca542731e19ab1587bdc7290057c9ef917ad33"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8dfdd10d98e339fabd7f46f6f507bc5239239f80"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "1d07a91fa908200754b8577ceb7fd74bc1e3b9f7d7384f64398ed9c953fef33d"
+    url = "https://github.com/JuliaBinaryWrappers/ADOLC_jll.jl/releases/download/ADOLC-v0.0.24+0/ADOLC.v0.0.24.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
